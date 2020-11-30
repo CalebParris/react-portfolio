@@ -1,0 +1,12 @@
+.footer {
+    min-height: 100px;
+    background: #000000;
+    position: relative;
+  }
+  
+  .footer span {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
