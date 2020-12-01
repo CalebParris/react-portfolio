@@ -1,6 +1,6 @@
 import React from "react";
-import CardContext from "../../utils/CardContext"
-import "./style.css"
+import CardContext from "../../utils/CardContext";
+import "./style.css";
 import Photo_of_Myself from "../../images/Photo_of_Myself.jpg";
 import CalebParris_WebDevResume from "../../PDF/CalebParris_WebDevResume.pdf";
 
