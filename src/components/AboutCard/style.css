@@ -1,0 +1,13 @@
+.card-container{
+    border: 1px solid black;
+    margin: 50px auto;
+}
+
+h2{
+    border-bottom: 5px solid black;
+    font-size: 40px !important;
+}
+
+img{
+    margin-bottom: 10px;
+}
