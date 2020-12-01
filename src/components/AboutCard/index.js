@@ -15,7 +15,7 @@ function AboutCard(){
                    <p>{textOne}</p>
                    <p>{textTwo}</p>
                    <p>{textThree}</p>
-                   <p>{textFour} <a href={CalebParris_WebDevResume} target="_blank">Technical Resume</a></p>
+                   <p>{textFour} <a href={CalebParris_WebDevResume}>Technical Resume</a></p>
                    </div>
                 )
             }}

@@ -1,6 +1,7 @@
 .card-container{
     border: 1px solid black;
     margin: 50px auto;
+    margin-top: 125px !important;
 }
 
 h2{
