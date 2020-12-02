@@ -14,24 +14,24 @@ function Navbar() {
         <ul className="navbar-nav">
           <li className="nav-item">
             <a
-              href="/react-portfolio/about"
-              className={window.location.pathname === "/react-portfolio/about" ? "nav-link active" : "nav-link"}
+              href="/about"
+              className={window.location.pathname === "/about" ? "nav-link active" : "nav-link"}
             >
               About
             </a>
           </li>
           <li className="nav-item">
             <a
-              href="/react-portfolio/portfolio"
-              className={window.location.pathname === "/react-portfolio/portfolio" ? "nav-link active" : "nav-link"}
+              href="/portfolio"
+              className={window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
             >
               Portfolio
             </a>
           </li>
           <li className="nav-item">
             <a
-              href="/react-portfolio/contact"
-              className={window.location.pathname === "/react-portfolio/contact" ? "nav-link active" : "nav-link"}
+              href="/contact"
+              className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
             >
               Contact
             </a>
